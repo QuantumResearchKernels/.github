@@ -1,2 +1,7 @@
-# .github
-This is the root repository for the community driven Quantum Research Kernels project
+Communities make the world go round.   Locking up core ideas inside a corporation has its place, but when the goal is to change the world, a community effort is much strongere.  
+
+We are building a community of application developers who want to guide the development of quantum computers.  We want to tell the people building these computers what we want them to support from our perspective.  Don't build a qunatum computer, though it over the fence to developers, and then get irritated that we can't do our magic on your "nice" machines.  We want you to work with us as you design the machines.  That way we'll known in advance that quantum computers will do what we need from them becuase we helped design them.
+
+The quantum research kernels are small fragments of problems. They are not benchmarks.   They are not primitives we will compose together to create applications.  They are small fragments or "kernels" that expose the features of a quantum computing system that will limit our ability to use them.  If the applications community behind these kernels does its job right, quantum computer designers will be able to design computers that work well for the full set of kernels confident that their computers will meet the needs of application developers.
+
+The quantum research kernels or QRK will be developed through a communmity process.  We will gather input and build the community around this github repsitory.   We are starting small and will make things up as we go along.  That's who a community project grows from the ground up.  Join us and help us make the QRK a complete set of kernels to guide the design of quantum computers.
